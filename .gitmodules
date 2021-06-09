@@ -1,6 +1,6 @@
 [submodule "multibuild"]
 	path = multibuild
-	url = https://github.com/matthew-brett/multibuild.git
+	url = https://github.com/Hirni-Meshram3/multibuild.git
 [submodule "Fiona"]
 	path = Fiona
 	url = https://github.com/Toblerity/Fiona.git
